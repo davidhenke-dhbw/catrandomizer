@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "catrandomizer-5cfec": {
+      "hosting": {
+        "BootAng": [
+          "catrandomizer-5cfec"
+        ]
+      }
+    }
+  }
+}
