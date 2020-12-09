@@ -20,7 +20,7 @@ export class ImageServiceService {
         this.cat = new CatImage(obj.id, obj.url, obj.height, obj.width); // initializing new CatImage Object
       });
     });
-    return this.cat; // returning CatImage Object
+    return this.cat; // returning CatImage Objectblalba
   }
 
 }
